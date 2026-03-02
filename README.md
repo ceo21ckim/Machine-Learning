@@ -8,15 +8,14 @@ python run.py --fname data.csv --estimators ['rf','ridge'] --cat_feature_names N
 
 
 ```
-└─machine_learning_prac
-    └─machine_learning
-        ├─data
-        │   └─ data.csv
-        ├─output
-        │   └─ scores.csv
-        ├─dataloader.py
-        ├─machine_learning.py
-        ├─metrics.py
-        ├─settings.py
-        └─run.py
+machine_learning
+    ├─data
+    │   └─ data.csv
+    ├─output
+    │   └─ scores.csv
+    ├─dataloader.py
+    ├─machine_learning.py
+    ├─metrics.py
+    ├─settings.py
+    └─run.py
 ```
